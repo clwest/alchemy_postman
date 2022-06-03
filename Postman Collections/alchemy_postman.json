@@ -403,7 +403,7 @@
 						}
 					}
 				},
-				"url": "opt-mainnet.g.alchemy.com/demo"
+				"url": "{{eth-mainnet}}/demo"
 			},
 			"response": []
 		},
@@ -1263,17 +1263,17 @@
 	],
 	"variable": [
 		{
-			"id": "d1d6016a-bd7b-4dc0-81c4-78cd18eacadb",
+			"id": "fb184bf9-738e-4ab2-a116-5e7a765f49b7",
 			"key": "eth-mainnet",
 			"value": "https://eth-mainnet.alchemyapi.io/v2"
 		},
 		{
-			"id": "21c366d6-f8e2-4b48-8943-e20432c670d5",
+			"id": "740e990b-7449-42dd-a4eb-9896870d29bf",
 			"key": "polygon-mainnet",
 			"value": "https://polygon-mainnet.g.alchemy.com/v2"
 		},
 		{
-			"id": "3c959b53-221b-4da5-a924-bb6c0e740c46",
+			"id": "5ad3ec32-7cd9-45e5-920a-1ff7563f81b4",
 			"key": "api_key",
 			"value": "api_key",
 			"type": "string"
