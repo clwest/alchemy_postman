@@ -22,7 +22,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{eth-mainnet}}/demo/getNFTs/?owner=0x76adE32c9f60014cd1A9b915042e5d65AD81b86b",
+					"raw": "{{eth-mainnet}}/demo/getNFTs/?owner=0x76adE32c9f60014cd1A9b915042e5d65AD81b86b&withMetadata=false",
 					"host": [
 						"{{eth-mainnet}}"
 					],
@@ -43,8 +43,7 @@
 						},
 						{
 							"key": "withMetadata",
-							"value": "false",
-							"disabled": true
+							"value": "false"
 						},
 						{
 							"key": "filters",
@@ -1264,17 +1263,17 @@
 	],
 	"variable": [
 		{
-			"id": "723ae178-dab6-472b-98eb-c205f0b7e482",
+			"id": "c1532677-97c1-4c05-b888-98c12ae7a9ba",
 			"key": "eth-mainnet",
 			"value": "https://eth-mainnet.alchemyapi.io/v2"
 		},
 		{
-			"id": "60a133f7-c02d-4ac4-b1d1-5ff45a4bc3c4",
+			"id": "6d705150-694e-4477-9f8d-ceb25bec9ad5",
 			"key": "polygon-mainnet",
 			"value": "https://polygon-mainnet.g.alchemy.com/v2"
 		},
 		{
-			"id": "7374744d-25c7-4a3d-8056-10fb26e9e1a1",
+			"id": "2fa0a0cf-718d-46f3-8a49-b2894f8b3a7f",
 			"key": "api_key",
 			"value": "api_key",
 			"type": "string"
