@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "af915e43-11e7-4cc4-903e-c1f198d9b4f5",
-		"name": "Alchemy Colletion",
+		"name": "Alchemy Postman",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -1263,17 +1263,17 @@
 	],
 	"variable": [
 		{
-			"id": "c1532677-97c1-4c05-b888-98c12ae7a9ba",
+			"id": "4a6c9371-94f5-442c-91b9-fe66218af746",
 			"key": "eth-mainnet",
 			"value": "https://eth-mainnet.alchemyapi.io/v2"
 		},
 		{
-			"id": "6d705150-694e-4477-9f8d-ceb25bec9ad5",
+			"id": "5ee01fae-77ee-4639-babe-50f3cf54bf3d",
 			"key": "polygon-mainnet",
 			"value": "https://polygon-mainnet.g.alchemy.com/v2"
 		},
 		{
-			"id": "2fa0a0cf-718d-46f3-8a49-b2894f8b3a7f",
+			"id": "af334fc8-a609-426a-9132-47f620ad5ee3",
 			"key": "api_key",
 			"value": "api_key",
 			"type": "string"
